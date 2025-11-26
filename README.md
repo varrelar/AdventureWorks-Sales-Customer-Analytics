@@ -91,15 +91,6 @@ DeliveryDays is fixed at 7 for all records—indicating stable SLA compliance.
 
 ---
 
-## 📁 Repository Contents
-/AdventureWorks-Analysis
-│
-├── AdventureWorks_Analysis.ipynb # Main notebook
-├── README.md # Project documentation
-├── images/ # Visualization snapshots (optional)
-
----
-
 ## 🧩 Technologies Used
 
 - Python  
@@ -111,8 +102,7 @@ DeliveryDays is fixed at 7 for all records—indicating stable SLA compliance.
 ---
 
 ## 🔗 Notebook Link
-*(Replace with your actual GitHub link)*  
-**https://github.com/<username>/AdventureWorks-Analysis**
+**https://github.com/varrelar/AdventureWorks-Analysis**
 
 ---
 
